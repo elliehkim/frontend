@@ -1,1 +1,2 @@
-MSA Phase 2 - Front End
+Frontend - Typescript
+movie search using API
